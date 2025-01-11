@@ -1,1 +1,2 @@
-This folder contains the custom dataset manually annotated using Roboflow. It has a total of 360 images (after Image AUgmentation) consisting of the training, validation and test sets.
+This folder contains the custom dataset manually annotated using Roboflow. 
+It has a total of 360 images (after Image AUgmentation) consisting of the training, validation and test sets.
